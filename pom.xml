@@ -52,8 +52,8 @@
                             <goal>tag</goal>
                         </goals>
                         <configuration>
-                            <image>Araya-Begaudeau/:${project.version}</image>
-                            <newName>hub.docker.com/Araya-Begaudeau/:${project.version}</newName>
+                            <image>Araya-Begaudeau:${project.version}</image>
+                            <newName>hub.docker.com/Araya-Begaudeau:${project.version}</newName>
                         </configuration>
                     </execution>
                 </executions>
